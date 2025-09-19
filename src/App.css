@@ -119,10 +119,6 @@
   }
 }
 
-/*Estilos customizados para o portfólio*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap');
-
-/*Configuração de fontes*/
 .font-poppins {
   font-family: 'Poppins', sans-serif;
 }
@@ -131,18 +127,15 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-/*Animações suaves*/
 .smooth-transition {
   transition: all 0.5s ease-in-out;
 }
 
-/*Efeito hover para botões*/
 .hover-glow:hover {
   box-shadow: 0 0 20px rgba(0, 255, 8, 0.5);
   transform: translateY(-2px);
 }
 
-/*Gradiente de fundo para seções*/
 .gradient-bg {
   background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
 }
